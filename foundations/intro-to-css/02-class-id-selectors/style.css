@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd{
+    background-color: lightpink;
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#thisisanid{
+    color:blue;
+    font-size:36px;
+
+}
+
+.cooler{
+    font-size:32px;
+}
+
+#thisisalsoanid{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
